@@ -4,6 +4,7 @@ ServicePerdu est une application pour les arbitres de partie.  Elle rend possibl
 Plus d'information à venir 
 
 Merci, Eric Cardinal
+
 serviceover.app@gmail.com
 
 # ServiceOver
@@ -12,4 +13,5 @@ ServiceOver is application for badminton umpires.  It also provides the ability 
 More information to come
 
 Thank you, Eric Cardinal
+
 serviceover.app@gmail.com
