@@ -1,6 +1,5 @@
 # ServicePerdu (français)
-ServicePerdu est une application pour les arbitres de partie.  Elle rend possible l'affichage des pointages sur une télévision via AirPlay.
-
+ServicePerdu est une application iOS conçue pour les arbitres de partie de badminton afin de gérer efficacement les parties. Elle permet de suivre lu pointage, les avertissements et les fautes, tout en générant une feuille de pointage détaillée. Grâce à la prise en charge d’AirPlay, elle affiche le pointage de la partie sur un téléviseur, assurant une visibilité claire et professionnelle. Idéale pour l’arbitrage amateur et professionnel, ServicePerdu facilite la gestion des parties avec précision et simplicité.
 Plus d'information à venir 
 
 Merci, Eric Cardinal
