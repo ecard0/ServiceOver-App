@@ -8,7 +8,7 @@ Merci, Eric Cardinal
 serviceover.app@gmail.com
 
 # ServiceOver (english)
-ServiceOver is application for badminton umpires.  It also provides the ability to AirPlay, and will show a scoring view on a TV via AirPlay devices (TV or Apple TV).
+ServiceOver is a powerful iOS app designed for badminton umpires to efficiently manage matches. It keeps track of scores, warnings, and faults while generating a detailed score sheet. With built-in AirPlay support, it seamlessly displays the match score on a TV, ensuring clear and professional scorekeeping. Ideal for both amateur and professional umpiring, ServiceOver enhances match management with ease and accuracy.
 
 More information to come
 
